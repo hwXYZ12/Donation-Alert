@@ -1,0 +1,19 @@
+{
+  "name": "donation-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.6.1",
+    "paypal-rest-sdk": "1.7.1"
+  },
+  "devDependencies": {
+    "paypal-rest-sdk": "1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
